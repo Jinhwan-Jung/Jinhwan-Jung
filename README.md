@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jinhwan-Jung
-- 👀 I’m interested in ECU software and CAN or Flexray communication for UDS or OBD-ii.
+- 👀 I’m interested in ECU software and CAN(FD), Flexray and 10BASE-T1S communication for UDS or OBD-ii.
 - 🌱 I’m currently learning the GUI SW like Python.
 - 💞️ I’m looking to collaborate on anywhere.
 - 📫 How to reach me is to send eMail (ssreminder@naver.com)
