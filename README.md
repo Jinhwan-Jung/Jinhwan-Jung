@@ -1,4 +1,4 @@
-### 안녕하세요. Vehicle & Embeded 개발자 정진환 입니다.👋
+### 안녕하세요. Automotive & Embeded 개발자 정진환 입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinhwan-Jung)](https://hits.seeyoufarm.com)
 
 <!--
